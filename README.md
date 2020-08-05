@@ -5,4 +5,3 @@ A To-Do app using Flutter
 
 ------------------
 
-## Sample Results
